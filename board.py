@@ -6,9 +6,6 @@
 # name: Catherine Liu
 # email:cliu26@bu.edu
 #
-# If you worked with a partner, put their contact info below:
-# partner's name: Fiona Wu
-# partner's email: fionayw@bu.edu
 #
 
 # a 2-D list that corresponds to the tiles in the goal state
